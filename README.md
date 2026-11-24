@@ -20,7 +20,7 @@ Small teams agree on goals at the start of a quarter, and within weeks the track
 
 **How we treat your code:** read-only GitHub access, no access to the contents of your source code, hosted in the EU.
 
-**Status:** Ziellane is in development. Follow along at [ziellane.com](https://ziellane.com).
+**Status:** Ziellane is in development.
 
 ---
 
