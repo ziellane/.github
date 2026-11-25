@@ -16,7 +16,7 @@ Small teams agree on goals at the start of a quarter, and within weeks the track
 3. **Watch it move.** The lane moves forward as issues close and pull requests merge. If a goal stalls or its pace slips past the target date, the owner hears about it early.
 4. **Confirm the weekly update.** Each owner gets a pre-filled check-in in Slack, adds a sentence of context and posts it to the team.
 
-**Who it's for:** product and engineering teams of about 3 to 20 people whose work lives on GitHub, and open-source maintainers. Public repositories will be free.
+**Who it's for:** product and engineering teams whose work lives on GitHub, and open-source maintainers. Public repositories will be free.
 
 **How we treat your code:** read-only GitHub access, no access to the contents of your source code, hosted in the EU.
 
